@@ -1,0 +1,3 @@
+# Ignore reduced chest x-ray dataset
+chest_xray_reduced/
+
